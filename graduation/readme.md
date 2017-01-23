@@ -1,0 +1,1 @@
+I downloaded data on educational attainment rates by county from the Common Core of data. This was in a .csv file with 37,000 columns of data.  I chose to focus on the data for high school graduation and discarded the rest of the data.  Then I put the data into a text editor and inserted tabs, because my visualization requires data in .tsv format.
